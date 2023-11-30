@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width:100%;
+    font-size: 35px;
+    margin: 0px;
+}
+.copyright_footer{
+    bottom:0;
+    font-size:20px;
+    width:100%;
+    background-color: #808080;
+    color:whitesmoke;
+    position:fixed;
+    line-height: 3;
+    text-align:center;
+    margin:0;
+} 
